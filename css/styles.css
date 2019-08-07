@@ -10,15 +10,12 @@ body {
 .sb-lineup {
   width: 20%;
   float: right;
+  height: 100%;
 }
 
-.tribute-photos img{
+.tribute-photos {
   float: right;
   width: 40%;
   margin-bottom: 5%;
-}
-
-.tribute-photos h4{
-  float: left;
-  font-style:italic;
+  overflow: hidden;
 }
