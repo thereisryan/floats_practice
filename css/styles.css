@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: #f7c52d;
+}
+
+.container {
+  margin: 5%
+}
+
+.sb-lineup {
+  width: 20%;
+  float: right;
+}
+
+.tribute-photos img{
+  float: right;
+  width: 40%;
+  margin-bottom: 5%;
+}
+
+.tribute-photos h4{
+  float: left;
+  font-style:italic;
+}
