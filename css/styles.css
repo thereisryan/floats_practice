@@ -15,6 +15,7 @@ body {
   border-style: dashed;
   border-color: crimson;
   background-color: orange;
+  padding: 5px 5px 5px 5px;
 }
 
 .tribute-photos {
